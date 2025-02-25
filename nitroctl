@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Setting backlight for zone $2 to color $3"
+
